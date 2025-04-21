@@ -1,6 +1,7 @@
 # Library Management System
 
 # Video URL: https://youtu.be/Cb6PLdlwx6Y?si=EanLHGetnyDdyeZB
+# Github URL: https://github.com/nouman-rehman-khan/library-management-system
 
 A complete library management system built with Node.js, Express, MySQL, and React.
 
